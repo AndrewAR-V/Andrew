@@ -1,0 +1,14 @@
+c:\users\володимир\documents\visual studio 2015\Projects\Lab3_BD\Lab3_BD\bin\Debug\Lab3_BD.exe.config
+c:\users\володимир\documents\visual studio 2015\Projects\Lab3_BD\Lab3_BD\bin\Debug\Lab3_BD.exe
+c:\users\володимир\documents\visual studio 2015\Projects\Lab3_BD\Lab3_BD\bin\Debug\Lab3_BD.pdb
+c:\users\володимир\documents\visual studio 2015\Projects\Lab3_BD\Lab3_BD\obj\Debug\Lab3_BD.exe
+c:\users\володимир\documents\visual studio 2015\Projects\Lab3_BD\Lab3_BD\obj\Debug\Lab3_BD.pdb
+C:\Users\Володимир\Desktop\Lab3_BD\Lab3_BD\bin\Debug\Lab3_BD.exe.config
+C:\Users\Володимир\Desktop\Lab3_BD\Lab3_BD\obj\Debug\Lab3_BD.exe
+C:\Users\Володимир\Desktop\Lab3_BD\Lab3_BD\obj\Debug\Lab3_BD.pdb
+C:\Users\Володимир\Desktop\Lab3_BD\Lab3_BD\obj\Debug\Lab3_BD.csprojResolveAssemblyReference.cache
+C:\Users\Володимир\Desktop\Lab3_BD\Lab3_BD\bin\Debug\Lab3_BD.exe
+C:\Users\Володимир\Desktop\Lab3_BD\Lab3_BD\bin\Debug\Lab3_BD.pdb
+H:\java_c#\Lab3_BD_V2\Lab3_BD\Lab3_BD\bin\Debug\Lab3_BD.exe.config
+H:\java_c#\Lab3_BD_V2\Lab3_BD\Lab3_BD\obj\Debug\Lab3_BD.exe
+H:\java_c#\Lab3_BD_V2\Lab3_BD\Lab3_BD\obj\Debug\Lab3_BD.pdb
